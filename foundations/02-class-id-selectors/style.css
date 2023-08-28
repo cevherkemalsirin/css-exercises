@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(161, 127, 133);
+    font-family:verdana,"DejaVu Sans",sans-serif;
+}
+.x24 {
+    font-size: 24px;
+}
+#bl{
+    color:rgb(0, 0, 255);
+    font-size:  32px;
+}
+#gr{
+    background-color: rgb(50, 250, 50, 0.4);
+    font-weight: bold;
+}
