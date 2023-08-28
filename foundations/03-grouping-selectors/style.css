@@ -1,0 +1,16 @@
+.blackButton,
+.yellowButton{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+    font-weight: bold;
+}
+
+.blackButton
+{
+    background-color: black;
+    color: white;
+}
+.yellowButton
+{
+    background-color: yellow;
+}
